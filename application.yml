@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Config-Default
+    name: donfig-Default
 eureka:
   instance:
     prefer-ip-address: true  # Use the IP address when registering with Eureka
